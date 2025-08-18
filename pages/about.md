@@ -8,10 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 This digital exhibit highlights the work of two Anthropology Senior Seminar classes. In 2024, the theme of the class was "The Anthropology of You," and in 2025 the theme was "The Anthropology of the Beyond Human." We hope the interplay of both themes leads you to think about your relationship to yourself and the world around you.
